@@ -1,7 +1,7 @@
     async function bourerDeMessageMonPote(message, nombreDeMessage, interval) {
         // a changer, si les selecteurs ne marchent pas
         let SelecteurDeChampDeTexte = '.x1hx0egp.x6ikm8r.x1odjw0f.x1k6rcq7.x6prxxf p.selectable-text.copyable-text.x15bjb6t.x1n2onr6';
-        let SelecteurDuBoutton = '.x1c4vz4f.x2lah0s.xdl72j9.xfect85.x1iy03kw.x1lfpgzf';
+        let SelecteurDuBoutton = '.x1c4vz4f.x2lah0s.xdl72j9.x1heor9g.xmper1u.x100vrsf.x1vqgdyp.x78zum5.xl56j7k.x6s0dn4';
 
         // selectionont l'element qui nous interesse
         const ChampDeTexte = document.querySelectorAll(SelecteurDeChampDeTexte)[1];
